@@ -1,4 +1,4 @@
-# hp-scaner-server
+# HP printer | Scanner | Hacking
 Scan documents from an HP printer with wifi access
 
 Basic requests:
