@@ -1,5 +1,7 @@
 # HP printer | Scanner | Hacking
-Scan documents from an HP printer with wifi access
+HP printers have a vulnerability with online requests. With these requests, you can intercept the data of scanned documents. Make a scan task. I can also send any documents for printing.
+
+To receive data from the printer, you only need to know its ip, which is very easy to find.
 
 Basic requests:
 
